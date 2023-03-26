@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Adnan</h1>
-<h3 align="center">Software Engineering student from Bangladesh.<br>An eager learner and passionate developer, constantly striving to improve and innovate.</h3>
+<h3 align="center">Software Engineering student from Bangladesh.<br>An eager learner and passionate developer, constantly striving to improve and innovate.</h3><br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnan23062000&label=Profile%20views&color=0e75b6&style=flat" alt="adnan23062000" /> </p>
 
@@ -27,5 +27,5 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnan23062000&show_icons=true&locale=en" alt="adnan23062000" /> &nbsp&nbsp&nbsp<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnan23062000&" alt="adnan23062000" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnan23062000&show_icons=true&locale=en" alt="adnan23062000" /> <br><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnan23062000&" alt="adnan23062000" /></p>
 
