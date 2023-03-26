@@ -1,4 +1,3 @@
-[![Masthead](https://conoscenza2022.stjosephstechnology.ac.in/cybertrix/)]()
 <h1 align="center">Hi 👋, I'm Ahmed Adnan</h1>
 <h3 align="center">Software Engineering student from Bangladesh.<br>An eager learner and passionate developer, constantly striving to improve and innovate.</h3>
 
@@ -28,5 +27,5 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnan23062000&show_icons=true&locale=en" alt="adnan23062000" /> &nbsp&nbsp&nbsp&nbsp&nbsp<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnan23062000&" alt="adnan23062000" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnan23062000&show_icons=true&locale=en" alt="adnan23062000" /> &nbsp&nbsp&nbsp<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnan23062000&" alt="adnan23062000" /></p>
 
