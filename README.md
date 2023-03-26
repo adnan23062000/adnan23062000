@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences by clicking on [<b>"My Resume"</b>](https://www.canva.com/design/DAFNvALLx5s/0YVUQw_XMMwwoVBoWY2cYA/view?utm_content=DAFNvALLx5s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-- ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs. :3**
+- ⚡ Fun fact: **Why do programmers prefer dark mode? Because light attracts bugs. :3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
