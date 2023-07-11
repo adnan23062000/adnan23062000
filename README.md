@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnan23062000&label=Profile%20views&color=0e75b6&style=flat" alt="adnan23062000" /> </p>
 
-- 🔭 I’m currently working on **a blog project using MERN stack**
+- 🔭 I’m currently studying in my 8th semester**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning the topics from my academic courses
 
 - 💬 Ask me about **Nodejs, Express, Django, React**
 
-- 📫 How to reach me **bsse1131@iit.du.ac.bd**, **ahmed.adnan@cefalo.com**
+- 📫 How to reach me **bsse1131@iit.du.ac.bd**
 
 - 📄 Know about my experiences by clicking on [<b>"My Resume"</b>](https://www.canva.com/design/DAFNvALLx5s/0YVUQw_XMMwwoVBoWY2cYA/view?utm_content=DAFNvALLx5s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
