@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnan23062000&label=Profile%20views&color=0e75b6&style=flat" alt="adnan23062000" /> </p>
 
-- 🔭 I’m currently pursuing my Masters's degree from IIT, University of Dhaka and <br>working as a Software Engineer at Samsung R&D Institute Bangladesh**
+- 🔭 I’m currently pursuing my Master's degree from IIT, University of Dhaka and <br>working as a Software Engineer at Samsung R&D Institute Bangladesh**
 
 - 📫 How to reach me **bsse1131@iit.du.ac.bd**, **a.adnan@samsung.com**
 
